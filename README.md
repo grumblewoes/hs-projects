@@ -20,3 +20,6 @@ I shamelessly stole inspiration from Undertale. The program splits the original 
 
 ## ReactionTime
 A multiplayer game using Xbox controllers. It is able to detect how many controllers are active, and adjusts the text displayed to fit the situation. A sound is played at a randomly generated time (within reason) after the game starts, and variables for each active player store how long it takes for them to give an input. Times are then displayed on screen, along with who won.
+
+## Animation
+Works in tandem with PixelPerfectCollision. Using a sprite sheet, the program references each frame using the coordinates of a rectangle, and loops through the frames in the order necessary for the sprite to look like it's walking.
