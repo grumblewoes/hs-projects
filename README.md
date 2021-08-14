@@ -16,7 +16,7 @@ Analyzes color data of two image files in order to draw hitboxes that only cover
 Same as before, but with traditional square hitboxes.
 
 ## TypewriterText
-I shamelessly stole inspiration from Undertale. The program splits the original text into substrings and lengthens the typed text based on elapsed time since the program started. By parsing the text, it is able to detect when it's time to type on a new line based on the boundaries of the rectanglular text box and the length of the word it's trying to type.
+I shamelessly stole inspiration from Undertale. The program splits the original text into substrings and lengthens the typed text based on elapsed time since the program started. By parsing the text, it is able to detect when it's time to type on a new line based on the boundaries of the rectangular text box and the length of the word it's trying to type.
 
 ## ReactionTime
 A multiplayer game using Xbox controllers. It is able to detect how many controllers are active, and adjusts the text displayed to fit the situation. A sound is played at a randomly generated time (within reason) after the game starts, and variables for each active player store how long it takes for them to give an input. Times are then displayed on screen, along with who won.
