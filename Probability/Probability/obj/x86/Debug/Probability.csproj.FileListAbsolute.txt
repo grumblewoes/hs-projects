@@ -1,0 +1,10 @@
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Probability\Probability\bin\Debug\Probability.exe
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Probability\Probability\bin\Debug\Probability.pdb
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Probability\Probability\obj\x86\Debug\Probability.csprojResolveAssemblyReference.cache
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Probability\Probability\obj\x86\Debug\Probability.Form1.resources
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Probability\Probability\obj\x86\Debug\Probability.Properties.Resources.resources
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Probability\Probability\obj\x86\Debug\Probability.csproj.GenerateResource.Cache
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Probability\Probability\obj\x86\Debug\Probability.exe
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Probability\Probability\obj\x86\Debug\Probability.pdb
+D:\Probability\Probability\obj\x86\Debug\Probability.exe
+D:\Probability\Probability\obj\x86\Debug\Probability.pdb

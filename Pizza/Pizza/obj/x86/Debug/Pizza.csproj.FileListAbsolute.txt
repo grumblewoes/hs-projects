@@ -1,0 +1,10 @@
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Pizza\Pizza\bin\Debug\Pizza.exe
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Pizza\Pizza\bin\Debug\Pizza.pdb
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.Form1.resources
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.Properties.Resources.resources
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.csproj.GenerateResource.Cache
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.exe
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.pdb
+\\artemis\20apomerantz\my documents\Visual Studio 2010\Projects\Pizza\Pizza\obj\x86\Debug\Pizza.csprojResolveAssemblyReference.cache
+D:\Pizza\Pizza\obj\x86\Debug\Pizza.exe
+D:\Pizza\Pizza\obj\x86\Debug\Pizza.pdb
